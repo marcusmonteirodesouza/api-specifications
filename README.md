@@ -1,4 +1,4 @@
-# Deep API Specifications
+# Deep APIs
 
 API specifications following the ["Deep Modules"](https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/lecture.php?topic=modularDesign) idea by John Osterhout.
 
